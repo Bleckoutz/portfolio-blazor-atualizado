@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Portifolio",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-wR1xf1TAMEU9D+x3UnLCaK9iIZ/csQdm66SBQBu2JV8=",
+    "hash": "sha256-OoHpRBYS5qwTaZdZSC1sKgoWolgZyPXk9P0v2VVWuHA=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.rjbmzc4jpg.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Portifolio.wasm",
-        "name": "Portifolio.k5x18b8a7k.wasm",
-        "hash": "sha256-6I2+71ZVBEWxR2cPOVHzOZKxC88vS/kKWfU3wWLW1u0=",
+        "name": "Portifolio.uus29n597c.wasm",
+        "hash": "sha256-agwA8yBLdYbRN7EoNJ/83Ck+P9bgUmZTBEewPtQMkVM=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Portifolio.pdb",
-        "name": "Portifolio.6msumy1r9g.pdb",
-        "hash": "sha256-oqUTanvkfdXzAAPXapoTHPzOsfHBdNYU22GZ/7lForc=",
+        "name": "Portifolio.iji2hufocd.pdb",
+        "hash": "sha256-olwjzFkXPW2WoLHIi2P9PqhmrC8xLFaP9uCc+MqDCrc=",
         "cache": "force-cache"
       }
     ],
